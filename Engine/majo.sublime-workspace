@@ -1,0 +1,1707 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"ove",
+				"overflow-y\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"num",
+				"num_rows"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"nu",
+				"num_rows"
+			],
+			[
+				"el",
+				"ellipsis\ttext-overflow"
+			],
+			[
+				"a",
+				"auto\toverflow"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"con",
+				"contestant"
+			],
+			[
+				"f",
+				"foreach\tforeach …"
+			],
+			[
+				"categ",
+				"category_id"
+			],
+			[
+				"cat",
+				"category_id"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"bac",
+				"barChart"
+			],
+			[
+				"l",
+				"lorem\tLorem ipsum"
+			],
+			[
+				"Vote",
+				"Vote_Factory"
+			],
+			[
+				"cta",
+				"category"
+			],
+			[
+				"user",
+				"userHasVotedCategory"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"check",
+				"checkIfUserHasVotedCategory"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"ca",
+				"category_id"
+			],
+			[
+				"su",
+				"success_count"
+			],
+			[
+				"v",
+				"votes"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"nul",
+				"nullVotesCount"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"doc",
+				"doc_s\tFunction Signature"
+			],
+			[
+				"contestant",
+				"contestant_id"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"par",
+				"param_password"
+			],
+			[
+				"re",
+				"ret\treturn"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ap",
+				"apikey"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"s",
+				"send"
+			],
+			[
+				"send",
+				"senderName"
+			],
+			[
+				"US",
+				"username"
+			],
+			[
+				"R",
+				"result"
+			],
+			[
+				"AP",
+				"apikey"
+			],
+			[
+				"sen",
+				"senderName"
+			],
+			[
+				"sms",
+				"SMS_API"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"SMS",
+				"SMS_API"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"date_de",
+				"date_default_timezone_set"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"time",
+				"time_log"
+			],
+			[
+				"param",
+				"param_user_id"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"pre",
+				"prefix"
+			],
+			[
+				"K",
+				"k"
+			],
+			[
+				"pla",
+				"placement-img"
+			],
+			[
+				"MAIN",
+				"main_img"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"key",
+				"keywords"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ba",
+				"background-repeat\tproperty"
+			],
+			[
+				"SCH",
+				"sch"
+			],
+			[
+				"VA",
+				"var_dump"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"sea",
+				"search_query"
+			],
+			[
+				"L",
+				"LIKE"
+			],
+			[
+				"se",
+				"search_query"
+			],
+			[
+				"incl",
+				"includes"
+			],
+			[
+				"sp",
+				"spinIcon"
+			],
+			[
+				"spin",
+				"spinIcon"
+			],
+			[
+				"BUT",
+				"buttonContent"
+			],
+			[
+				"CA",
+				"Category"
+			],
+			[
+				"schoo",
+				"school_id"
+			],
+			[
+				"SC",
+				"sch"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"cont",
+				"buttonContent"
+			],
+			[
+				"g",
+				"goTo"
+			],
+			[
+				"or",
+				"order"
+			],
+			[
+				"ac",
+				"acronym"
+			],
+			[
+				"pos",
+				"poster"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"pag",
+				"page_num"
+			],
+			[
+				"dat",
+				"date_of_post"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"uc",
+				"ucwords"
+			],
+			[
+				"User",
+				"User_Factory"
+			],
+			[
+				"get_pa",
+				"get_page_num"
+			],
+			[
+				"page",
+				"get_page_num"
+			],
+			[
+				"Q",
+				"query"
+			],
+			[
+				"paginat",
+				"Pagination"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"cl",
+				"class\tclass …"
+			],
+			[
+				"cla",
+				"class_implements"
+			],
+			[
+				"sch",
+				"school_id"
+			],
+			[
+				"main",
+				"main_img"
+			],
+			[
+				"ne",
+				"negotiable"
+			],
+			[
+				"ad",
+				"ad_title"
+			],
+			[
+				"u",
+				"user_id"
+			],
+			[
+				"PRINT",
+				"print_r"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"isin",
+				"is_int"
+			],
+			[
+				"NE",
+				"negotiable"
+			],
+			[
+				"req",
+				"req_fields"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"AD",
+				"Ad_Factory"
+			],
+			[
+				"SP",
+				"spinIcon"
+			],
+			[
+				"BU",
+				"buttonContent"
+			],
+			[
+				"but",
+				"buttonContent"
+			],
+			[
+				"anim",
+				"animation-duration\tproperty"
+			],
+			[
+				"spi",
+				"spin-icon"
+			],
+			[
+				"an",
+				"animation-duration\tproperty"
+			],
+			[
+				"ro",
+				"rotateX()\ttransform"
+			],
+			[
+				"tran",
+				"transform\tproperty"
+			],
+			[
+				"rot",
+				"rotateZ()\ttransform"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"tex",
+				"textarea"
+			],
+			[
+				"des",
+				"description"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/majo/index.php",
+			"settings":
+			{
+				"buffer_size": 2386,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/majo/result-categories.php",
+			"settings":
+			{
+				"buffer_size": 2016,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/majo/poll.php",
+			"settings":
+			{
+				"buffer_size": 5758,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/majo/vote/index.php",
+			"settings":
+			{
+				"buffer_size": 6267,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/majo/vote/assets/css/main.css",
+			"settings":
+			{
+				"buffer_size": 21997,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Async/vote_ajax.php",
+			"settings":
+			{
+				"buffer_size": 720,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php foreach ($categories as $category): ?>\n\t\t\t\t\t\t<li id=\"cat-<?=$category['id']?>\"><?=ucwords($category['name'])?></li>\n\n\t\t\t\t\t\t<!-- Candidates -->\n\t\t\t\t\t\t<div id=\"cat-<?=$category['id']?>-contestants\" class=\"positions\">\n\t\t\t\t\t\t\t<header>\n\t\t\t\t\t\t\t\t<p></p>\n\t\t\t\t\t\t\t\t<span class=\"exit\" style=\"color: white;\"><i class=\"fa fa-times\"></i></span>\n\t\t\t\t\t\t\t</header>\n\t\t\t\t\t\t\t<section class=\"candidates\">\n\t\t\t\t\t\t\t\t<header>\n\t\t\t\t\t\t\t\t\t<span class=\"avatar\"><img src=\"images/avatar.jpg\" alt=\"\" /></span>\n\t\t\t\t\t\t\t\t\t<h1>Jeanne Doe</h1>\n\t\t\t\t\t\t\t\t\t<p>Senior Psychonautics Engineer</p>\n\t\t\t\t\t\t\t\t</header>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<footer>\n\t\t\t\t\t\t\t\t\t<ul class=\"icons\">\n\t\t\t\t\t\t\t\t\t\t<input type=\"radio\" id=\"jeanne\" name=\"president\" value=\"jeanne\" />\n\t\t\t\t\t\t\t\t\t\t<label for=\"jeanne\">Vote</label>\n\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t</footer>\n\t\t\t\t\t\t\t</section>\n\n\t\t\t\t\t\t\t<section class=\"candidates\">\n\t\t\t\t\t\t\t\t<header>\n\t\t\t\t\t\t\t\t\t<span class=\"avatar\"><img src=\"images/avatar.jpg\" alt=\"\" /></span>\n\t\t\t\t\t\t\t\t\t<h1>Jean Doe</h1>\n\t\t\t\t\t\t\t\t\t<p>Senior Psychonautics Engineer</p>\n\t\t\t\t\t\t\t\t</header>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<footer>\n\t\t\t\t\t\t\t\t\t<ul class=\"icons\">\n\t\t\t\t\t\t\t\t\t\t<input type=\"radio\" id=\"jean\" name=\"president\" value=\"jean\" />\n\t\t\t\t\t\t\t\t\t\t<label for=\"jean\">Vote</label>\n\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t</footer>\n\t\t\t\t\t\t\t</section>\n\n\t\t\t\t\t\t\t<section class=\"candidates\">\n\t\t\t\t\t\t\t\t<header>\n\t\t\t\t\t\t\t\t\t<span class=\"avatar\"><img src=\"images/avatar.jpg\" alt=\"\" /></span>\n\t\t\t\t\t\t\t\t\t<h1>Jane Doe</h1>\n\t\t\t\t\t\t\t\t\t<p>Senior Psychonautics Engineer</p>\n\t\t\t\t\t\t\t\t</header>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<footer>\n\t\t\t\t\t\t\t\t\t<ul class=\"icons\">\n\t\t\t\t\t\t\t\t\t\t<input type=\"radio\" id=\"jane\" name=\"president\" value=\"jane\" />\n\t\t\t\t\t\t\t\t\t\t<label for=\"jane\">Vote</label>\n\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t</footer>\n\t\t\t\t\t\t\t</section>\n\t\t\t\t\t\t</div>\n\n\n\t\t\t\t\t\t\t\n<?php endforeach ?>\n",
+			"settings":
+			{
+				"buffer_size": 1724,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/majo/test.php",
+			"settings":
+			{
+				"buffer_size": 146,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Env/db.php",
+			"settings":
+			{
+				"buffer_size": 211,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"file": "majo",
+			"file_size": 0,
+			"file_write_time": 132020893151410670,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Env/ftf.php",
+			"settings":
+			{
+				"buffer_size": 894,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Class/user_singleton.php",
+			"settings":
+			{
+				"buffer_size": 637,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Controllers/index_ctrl.php",
+			"settings":
+			{
+				"buffer_size": 590,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Controllers/poll_ctrl.php",
+			"settings":
+			{
+				"buffer_size": 237,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Controllers/Vote/index_ctrl.php",
+			"settings":
+			{
+				"buffer_size": 124,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Class/user_factory.php",
+			"settings":
+			{
+				"buffer_size": 2578,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Class/vote_factory.php",
+			"settings":
+			{
+				"buffer_size": 3439,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Enumeration"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 154.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/new_flimbit"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/majo/vote/result-categories.php",
+		"/C/xampp/htdocs/majo/Engine/Controllers/vote_ctrl.php",
+		"/C/Users/clinton/Downloads/majo (1).sql",
+		"/C/xampp/htdocs/majo/vote/assets/css/main.css",
+		"/C/xampp/htdocs/majo/Engine/Procedures/init.php",
+		"/C/xampp/htdocs/majo/test.php",
+		"/C/xampp/htdocs/majo/Engine/rc/students.php",
+		"/C/xampp/htdocs/majo/assets/js/legacy.js",
+		"/C/xampp/htdocs/majo/assets/css/main.css",
+		"/C/xampp/htdocs/majo/assets/js/vuejs/vue.min.js",
+		"/C/xampp/htdocs/majo/index.html",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/user_singleton.php",
+		"/C/xampp/htdocs/test/index.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Env/ftf.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/abstract.pagination.php",
+		"/C/Users/clinton/Novacom Webs Lib/FLIMBIT_PRODUCTION/sitemap.xml",
+		"/C/Users/clinton/Novacom Webs Lib/FLIMBIT_PRODUCTION/robots.txt",
+		"/C/xampp/htdocs/new_flimbit/includes/header.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/ad_factory.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/school_factory.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/school_singleton.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/index_ctrl.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/settings_ctrl.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/post-ad_ctrl.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/login_ctrl.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/signup_ctrl.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/category_ctrl.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/search_ctrl.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/profile_ctrl.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/home_ctrl.php",
+		"/C/xampp/htdocs/new_flimbit/includes/category-logged.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/admin.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Env/db.php",
+		"/C/xampp/htdocs/new_flimbit/includes/category-nonlogged.php",
+		"/C/xampp/htdocs/new_flimbit/includes/search-nonlogged.php",
+		"/C/xampp/htdocs/new_flimbit/includes/search-logged.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Procedures/errors.php",
+		"/C/xampp/htdocs/new_flimbit/admin/temp/edit-school.php",
+		"/C/xampp/htdocs/new_flimbit/admin/temp/add-school.php",
+		"/C/xampp/htdocs/new_flimbit/test.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/ad_ctrl.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Procedures/init.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/user_factory.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/ad_singleton.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/upload.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/pagination.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/search_ctrl",
+		"/C/xampp/htdocs/new_flimbit/css/extend.bootstrap.css",
+		"/C/xampp/htdocs/new_flimbit/css/main.css",
+		"/C/xampp/htdocs/new_flimbit/category.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/ad.php",
+		"/C/xampp/htdocs/new_flimbit/css/bootstrap/bootstrap.css",
+		"/C/xampp/htdocs/new_flimbit/Engine/Network/route.php",
+		"/C/xampp/htdocs/new_flimbit/js/main-lib.js",
+		"/C/xampp/htdocs/new_flimbit/Engine/Async/users_ajax.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Class/ad_singelton.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/post-ad.php",
+		"/C/xampp/htdocs/new_flimbit/settings.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Async/users_ajax",
+		"/C/xampp/htdocs/new_flimbit/profile.php",
+		"/C/xampp/htdocs/new_flimbit/admin/temp/index.php",
+		"/C/xampp/htdocs/new_flimbit/admin/temp/home.php",
+		"/C/xampp/htdocs/new_flimbit/admin/temp/list-schools.php",
+		"/C/xampp/htdocs/new_flimbit/admin/temp/edit-schools.php",
+		"/C/xampp/htdocs/new_flimbit/Engine/Controllers/signup.php",
+		"/C/xampp/htdocs/new_flimbit/ad.php",
+		"/C/xampp/htdocs/new_flimbit/search.php",
+		"/C/xampp/htdocs/new_flimbit/includes/meta-main.php",
+		"/C/xampp/htdocs/new_flimbit/css/loaders.css",
+		"/C/xampp/htdocs/new_flimbit/categories.php",
+		"/C/Users/clinton/Desktop/app/httpd/config/httpd.conf",
+		"/C/xampp/htdocs/hackathon/test1.php",
+		"/C/xampp/htdocs/hackathon/test2.php",
+		"/C/xampp/htdocs/zipment/css/custom-style.css",
+		"/C/xampp/htdocs/new_flimbit/js/bootstrap/bootstrap.bundle.js",
+		"/C/xampp/htdocs/new_flimbit/login.php",
+		"/C/xampp/htdocs/new_flimbit/css/jquery.fancybox.min.css",
+		"/C/xampp/htdocs/new_flimbit/js/jquery/jquery.fancybox.min.js",
+		"/C/xampp/htdocs/hotelr/engine/tesseract/controllers/tpanel.index.php",
+		"/C/xampp/htdocs/hotelr/enter/book.php",
+		"/C/xampp/htdocs/hotelr/engine/tesseract/procedures/init.php",
+		"/C/xampp/htdocs/hotelr/engine/tesseract/env/db.php",
+		"/C/xampp/htdocs/hotelr/engine/tesseract/class/user_singleton.php",
+		"/C/Users/clinton/Novacom Webs Lib/UNICUS/tpanel_original/dashboard.html",
+		"/C/xampp/htdocs/hotelr/engine/tesseract/async/tpanel_json.php",
+		"/C/xampp/htdocs/hotelr/engine/tesseract/async/tpanel_ajax.php",
+		"/C/xampp/htdocs/hotelr/test/room-reservation.php",
+		"/C/xampp/htdocs/hotelr/enter/index.php",
+		"/C/xampp/htdocs/hotelr/test/index.php",
+		"/C/xampp/htdocs/hotelr/engine/tesseract/class/config.php",
+		"/C/xampp/htdocs/hotelr/index.php",
+		"/C/xampp/htdocs/hotelr/engine/tesseract/class/room.php",
+		"/C/xampp/htdocs/hotelr/engine/procedures/init.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/about.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/js/custom/live-data.1.0.0.js",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/core/class.room.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/general-management.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/core/class.chart.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/modal/manage-guest.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/core/class.time_object.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/search.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/specifics/settings_globals.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/specifics/settings_security.php",
+		"/C/Users/clinton/Documents/PYTHON Codes/hello.py",
+		"/C/xampp/htdocs/Africa/wp-config.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/meta-main.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/css/main.css",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/css/widgets.css",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/core/class.config.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/css/tesseract-data.css",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/guest-registeration.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/settings-topbar.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/topbar.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/dashboard.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/sidebar.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/core/class.abstract.pagination.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/core/class.guest.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/core/init.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/core/class.admin.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/js/custom/main-lib.1.0.0.js",
+		"/C/Users/clinton/AppData/Roaming/Sublime Text 3/Packages/User/cpp_build.sublime-build",
+		"/C/Users/clinton/Documents/My C++ codes/Exam Practice/adding array using function.cpp",
+		"/C/Users/clinton/Desktop/macro.sublime-macro",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/specifics/create-reservation-form.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/includes/specifics/guest_registeration_form.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/index.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/create-reservation.php",
+		"/C/Users/clinton/Desktop/TEST_ENVIRONMENT/phpdesktop-chrome-47.5-rc-php-5.4.33/resource/engine/functions/core/class.stats.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"o",
+			"for=\"cat-",
+			"name=\"cat-",
+			"-<?=$",
+			" =",
+			"\n\t\t\t\t\t\t",
+			"dept",
+			"dpt",
+			"mat_no",
+			"password",
+			"passwordf",
+			"h1",
+			"h3",
+			"h1",
+			"  ",
+			"poster",
+			"Ad_Factory::allAssoc($num_result_per_page, $page_num)",
+			"$this->",
+			"public",
+			"$_POST",
+			"!= ",
+			"null",
+			"<i class=\"icon fa fa-exclamation-triangle\"></i>",
+			"_REQUEST",
+			"autofocus",
+			"<icon class=\"fa fa-exclamation-circle\"></icon> ",
+			"$_POST",
+			"$_SERVER['DOCUMENT_ROOT'].'/new_flimbit/engine/env/ftf.php'",
+			"$_SERVER['DOCUMENT_ROOT'].'/emmapassions",
+			".search",
+			"<span><i class=\"fa fa-bath\"></i>2 Beadrooms</span>",
+			"UNIBEN",
+			"<i class=\"fa fa-map-marker location-icon\" ></i>",
+			"UNIBEN",
+			"fa-map-marker-alt",
+			"UNIBEN",
+			"arrows-alt",
+			"1678 Sq ft",
+			"New York",
+			"small",
+			"                <div class=\"address\">4062 Walnut Hill Drive\n            Cincinnati</div>",
+			"$",
+			"let",
+			"col-lg-2 col-md-4 col-xs-5",
+			"col-lg-3 col-md-4 col-xs-6",
+			"dfeeff",
+			"email",
+			"col-lg-2 col-md-4 col-xs-4",
+			"col-lg-3 col-md-4 col-xs-6",
+			"ol-lg-3 col-md-4 col-xs-6",
+			"col-lg-3 col-md-4 col-xs-6",
+			"col-lg-3 col-md-4 col-xs-6 item",
+			"<?php echo number_format(rand(100, 10000)) ?>",
+			"100% 100%",
+			"cover",
+			"#fed136;",
+			"#000000",
+			"<a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" aria-expanded=\"false\">\n              <i class=\"fa fa-envelope-o\"></i>\n              <span class=\"label label-success\">4</span>\n            </a>",
+			"<li class=\"dropdown notifications-menu open\">",
+			"<li class=\"dropdown notifications-menu open\">\n    ",
+			"<li class=\"dropdown notifications-menu open\">\n            <a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" aria-expanded=\"true\">\n              <i class=\"fa fa-bell-o\"></i>\n              <span class=\"label label-warning\">10</span>\n            </a>\n            <ul class=\"dropdown-menu\">\n              <li class=\"header\">You have 10 notifications</li>\n              <li>\n                <!-- inner menu: contains the actual data -->\n                <div class=\"slimScrollDiv\" style=\"position: relative; overflow: hidden; width: auto; height: 200px;\"><ul class=\"menu\" style=\"overflow: hidden; width: 100%; height: 200px;\">\n                  <li>\n                    <a href=\"#\">\n                      <i class=\"fa fa-users text-aqua\"></i> 5 new members joined today\n                    </a>\n                  </li>\n                  <li>\n                    <a href=\"#\">\n                      <i class=\"fa fa-warning text-yellow\"></i> Very long description here that may not fit into the\n                      page and may cause design problems\n                    </a>\n                  </li>\n                  <li>\n                    <a href=\"#\">\n                      <i class=\"fa fa-users text-red\"></i> 5 new members joined\n                    </a>\n                  </li>\n                  <li>\n                    <a href=\"#\">\n                      <i class=\"fa fa-shopping-cart text-green\"></i> 25 sales made\n                    </a>\n                  </li>\n                  <li>\n                    <a href=\"#\">\n                      <i class=\"fa fa-user text-red\"></i> You changed your username\n                    </a>\n                  </li>\n                </ul><div class=\"slimScrollBar\" style=\"width: 3px; position: absolute; top: 0px; opacity: 0.4; display: none; border-radius: 7px; z-index: 99; right: 1px; height: 195.121951219512px; background: rgb(0, 0, 0);\"></div><div class=\"slimScrollRail\" style=\"width: 3px; height: 100%; position: absolute; top: 0px; display: none; border-radius: 7px; opacity: 0.2; z-index: 90; right: 1px; background: rgb(51, 51, 51);\"></div></div>\n              </li>\n              <li class=\"footer\"><a href=\"#\">View all</a></li>\n            </ul>\n          </li>",
+			"<div class=\"tab-content\">\n      <!-- Home tab content -->\n      <div class=\"tab-pane\" id=\"control-sidebar-home-tab\">\n        <h3 class=\"control-sidebar-heading\">Recent Activity</h3>\n        <ul class=\"control-sidebar-menu\">\n          <li>\n            <a href=\"javascript:void(0)\">\n              <i class=\"menu-icon fa fa-birthday-cake bg-red\"></i>\n\n              <div class=\"menu-info\">\n                <h4 class=\"control-sidebar-subheading\">Langdon's Birthday</h4>\n\n                <p>Will be 23 on April 24th</p>\n              </div>\n            </a>\n          </li>\n          <li>\n            <a href=\"javascript:void(0)\">\n              <i class=\"menu-icon fa fa-user bg-yellow\"></i>\n\n              <div class=\"menu-info\">\n                <h4 class=\"control-sidebar-subheading\">Frodo Updated His Profile</h4>\n\n                <p>New phone +1(800)555-1234</p>\n              </div>\n            </a>\n          </li>\n          <li>\n            <a href=\"javascript:void(0)\">\n              <i class=\"menu-icon fa fa-envelope-o bg-light-blue\"></i>\n\n              <div class=\"menu-info\">\n                <h4 class=\"control-sidebar-subheading\">Nora Joined Mailing List</h4>\n\n                <p>nora@example.com</p>\n              </div>\n            </a>\n          </li>\n          <li>\n            <a href=\"javascript:void(0)\">\n              <i class=\"menu-icon fa fa-file-code-o bg-green\"></i>\n\n              <div class=\"menu-info\">\n                <h4 class=\"control-sidebar-subheading\">Cron Job 254 Executed</h4>\n\n                <p>Execution time 5 seconds</p>\n              </div>\n            </a>\n          </li>\n        </ul>\n        <!-- /.control-sidebar-menu -->\n\n        <h3 class=\"control-sidebar-heading\">Tasks Progress</h3>\n        <ul class=\"control-sidebar-menu\">\n          <li>\n            <a href=\"javascript:void(0)\">\n              <h4 class=\"control-sidebar-subheading\">\n                Custom Template Design\n                <span class=\"label label-danger pull-right\">70%</span>\n              </h4>\n\n              <div class=\"progress progress-xxs\">\n                <div class=\"progress-bar progress-bar-danger\" style=\"width: 70%\"></div>\n              </div>\n            </a>\n          </li>\n          <li>\n            <a href=\"javascript:void(0)\">\n              <h4 class=\"control-sidebar-subheading\">\n                Update Resume\n                <span class=\"label label-success pull-right\">95%</span>\n              </h4>\n\n              <div class=\"progress progress-xxs\">\n                <div class=\"progress-bar progress-bar-success\" style=\"width: 95%\"></div>\n              </div>\n            </a>\n          </li>\n          <li>\n            <a href=\"javascript:void(0)\">\n              <h4 class=\"control-sidebar-subheading\">\n                Laravel Integration\n                <span class=\"label label-warning pull-right\">50%</span>\n              </h4>\n\n              <div class=\"progress progress-xxs\">\n                <div class=\"progress-bar progress-bar-warning\" style=\"width: 50%\"></div>\n              </div>\n            </a>\n          </li>\n          <li>\n            <a href=\"javascript:void(0)\">\n              <h4 class=\"control-sidebar-subheading\">\n                Back End Framework\n                <span class=\"label label-primary pull-right\">68%</span>\n              </h4>\n\n              <div class=\"progress progress-xxs\">\n                <div class=\"progress-bar progress-bar-primary\" style=\"width: 68%\"></div>\n              </div>\n            </a>\n          </li>\n        </ul>\n        <!-- /.control-sidebar-menu -->\n\n      </div><div id=\"control-sidebar-theme-demo-options-tab\" class=\"tab-pane\"><div><h4 class=\"control-sidebar-heading\">Layout Options</h4><div class=\"form-group\"><label class=\"control-sidebar-subheading\"><input type=\"checkbox\" data-layout=\"fixed\" class=\"pull-right\"> Fixed layout</label><p>Activate the fixed layout. You can't use fixed and boxed layouts together</p></div><div class=\"form-group\"><label class=\"control-sidebar-subheading\"><input type=\"checkbox\" data-layout=\"layout-boxed\" class=\"pull-right\"> Boxed Layout</label><p>Activate the boxed layout</p></div><div class=\"form-group\"><label class=\"control-sidebar-subheading\"><input type=\"checkbox\" data-layout=\"sidebar-collapse\" class=\"pull-right\"> Toggle Sidebar</label><p>Toggle the left sidebar's state (open or collapse)</p></div><div class=\"form-group\"><label class=\"control-sidebar-subheading\"><input type=\"checkbox\" data-enable=\"expandOnHover\" class=\"pull-right\"> Sidebar Expand on Hover</label><p>Let the sidebar mini expand on hover</p></div><div class=\"form-group\"><label class=\"control-sidebar-subheading\"><input type=\"checkbox\" data-controlsidebar=\"control-sidebar-open\" class=\"pull-right\"> Toggle Right Sidebar Slide</label><p>Toggle between slide over content and push content effects</p></div><div class=\"form-group\"><label class=\"control-sidebar-subheading\"><input type=\"checkbox\" data-sidebarskin=\"toggle\" class=\"pull-right\"> Toggle Right Sidebar Skin</label><p>Toggle between dark and light skins for the right sidebar</p></div><h4 class=\"control-sidebar-heading\">Skins</h4><ul class=\"list-unstyled clearfix\"><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-blue\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div><span style=\"display:block; width: 20%; float: left; height: 7px; background: #367fa9;\"></span><span class=\"bg-light-blue\" style=\"display:block; width: 80%; float: left; height: 7px;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #222d32;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\">Blue</p></li><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-black\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div style=\"box-shadow: 0 0 2px rgba(0,0,0,0.1)\" class=\"clearfix\"><span style=\"display:block; width: 20%; float: left; height: 7px; background: #fefefe;\"></span><span style=\"display:block; width: 80%; float: left; height: 7px; background: #fefefe;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #222;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\">Black</p></li><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-purple\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div><span style=\"display:block; width: 20%; float: left; height: 7px;\" class=\"bg-purple-active\"></span><span class=\"bg-purple\" style=\"display:block; width: 80%; float: left; height: 7px;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #222d32;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\">Purple</p></li><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-green\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div><span style=\"display:block; width: 20%; float: left; height: 7px;\" class=\"bg-green-active\"></span><span class=\"bg-green\" style=\"display:block; width: 80%; float: left; height: 7px;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #222d32;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\">Green</p></li><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-red\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div><span style=\"display:block; width: 20%; float: left; height: 7px;\" class=\"bg-red-active\"></span><span class=\"bg-red\" style=\"display:block; width: 80%; float: left; height: 7px;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #222d32;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\">Red</p></li><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-yellow\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div><span style=\"display:block; width: 20%; float: left; height: 7px;\" class=\"bg-yellow-active\"></span><span class=\"bg-yellow\" style=\"display:block; width: 80%; float: left; height: 7px;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #222d32;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\">Yellow</p></li><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-blue-light\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div><span style=\"display:block; width: 20%; float: left; height: 7px; background: #367fa9;\"></span><span class=\"bg-light-blue\" style=\"display:block; width: 80%; float: left; height: 7px;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #f9fafc;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\" style=\"font-size: 12px\">Blue Light</p></li><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-black-light\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div style=\"box-shadow: 0 0 2px rgba(0,0,0,0.1)\" class=\"clearfix\"><span style=\"display:block; width: 20%; float: left; height: 7px; background: #fefefe;\"></span><span style=\"display:block; width: 80%; float: left; height: 7px; background: #fefefe;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #f9fafc;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\" style=\"font-size: 12px\">Black Light</p></li><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-purple-light\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div><span style=\"display:block; width: 20%; float: left; height: 7px;\" class=\"bg-purple-active\"></span><span class=\"bg-purple\" style=\"display:block; width: 80%; float: left; height: 7px;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #f9fafc;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\" style=\"font-size: 12px\">Purple Light</p></li><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-green-light\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div><span style=\"display:block; width: 20%; float: left; height: 7px;\" class=\"bg-green-active\"></span><span class=\"bg-green\" style=\"display:block; width: 80%; float: left; height: 7px;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #f9fafc;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\" style=\"font-size: 12px\">Green Light</p></li><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-red-light\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div><span style=\"display:block; width: 20%; float: left; height: 7px;\" class=\"bg-red-active\"></span><span class=\"bg-red\" style=\"display:block; width: 80%; float: left; height: 7px;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #f9fafc;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\" style=\"font-size: 12px\">Red Light</p></li><li style=\"float:left; width: 33.33333%; padding: 5px;\"><a href=\"javascript:void(0);\" data-skin=\"skin-yellow-light\" style=\"display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4)\" class=\"clearfix full-opacity-hover\"><div><span style=\"display:block; width: 20%; float: left; height: 7px;\" class=\"bg-yellow-active\"></span><span class=\"bg-yellow\" style=\"display:block; width: 80%; float: left; height: 7px;\"></span></div><div><span style=\"display:block; width: 20%; float: left; height: 20px; background: #f9fafc;\"></span><span style=\"display:block; width: 80%; float: left; height: 20px; background: #f4f5f7;\"></span></div></a><p class=\"text-center no-margin\" style=\"font-size: 12px;\">Yellow Light</p></li></ul></div></div>\n      <!-- /.tab-pane -->\n      <!-- Stats tab content -->\n      <div class=\"tab-pane\" id=\"control-sidebar-stats-tab\">Stats Tab Content</div>\n      <!-- /.tab-pane -->\n      <!-- Settings tab content -->\n      <div class=\"tab-pane active\" id=\"control-sidebar-settings-tab\">\n        <form method=\"post\">\n          <h3 class=\"control-sidebar-heading\">General Settings</h3>\n\n          <div class=\"form-group\">\n            <label class=\"control-sidebar-subheading\">\n              Report panel usage\n              <input type=\"checkbox\" class=\"pull-right\" checked=\"\">\n            </label>\n\n            <p>\n              Some information about this general settings option\n            </p>\n          </div>\n          <!-- /.form-group -->\n\n          <div class=\"form-group\">\n            <label class=\"control-sidebar-subheading\">\n              Allow mail redirect\n              <input type=\"checkbox\" class=\"pull-right\" checked=\"\">\n            </label>\n\n            <p>\n              Other sets of options are available\n            </p>\n          </div>\n          <!-- /.form-group -->\n\n          <div class=\"form-group\">\n            <label class=\"control-sidebar-subheading\">\n              Expose author name in posts\n              <input type=\"checkbox\" class=\"pull-right\" checked=\"\">\n            </label>\n\n            <p>\n              Allow the user to show his name in blog posts\n            </p>\n          </div>\n          <!-- /.form-group -->\n\n          <h3 class=\"control-sidebar-heading\">Chat Settings</h3>\n\n          <div class=\"form-group\">\n            <label class=\"control-sidebar-subheading\">\n              Show me as online\n              <input type=\"checkbox\" class=\"pull-right\" checked=\"\">\n            </label>\n          </div>\n          <!-- /.form-group -->\n\n          <div class=\"form-group\">\n            <label class=\"control-sidebar-subheading\">\n              Turn off notifications\n              <input type=\"checkbox\" class=\"pull-right\">\n            </label>\n          </div>\n          <!-- /.form-group -->\n\n          <div class=\"form-group\">\n            <label class=\"control-sidebar-subheading\">\n              Delete chat history\n              <a href=\"javascript:void(0)\" class=\"text-red pull-right\"><i class=\"fa fa-trash-o\"></i></a>\n            </label>\n          </div>\n          <!-- /.form-group -->\n        </form>\n      </div>\n      <!-- /.tab-pane -->\n    </div>",
+			"  <input type=\"date\" name=\"cost\" style=\"\n                  color: white;\n                  background-color: transparent;\n                  height: 27px;\n                  width: 132px;\n                  margin-right: 35px;\n                  border: 1px solid #cecccc;\n              \">   \n              </div>",
+			"<div id=\"\" class=\"summary-count\">55</div>",
+			"<th class=\"column100 column2\" data-column=\"column2\" style=\"\n                                  width: 100px;\n                              \">Room No.</th>",
+			"declined",
+			"<p style=\"text-align: center; font-weight: bold;\">\n\n  Room Request No:    \n<span style=\"\n    display: inline-block;\n    margin-left: 20px;\n\">Vre4376vdhv</span>\n</p>",
+			"$param_id",
+			"User-Image",
+			"Request No.",
+			"request",
+			"room",
+			"$user",
+			"total_cos",
+			"`",
+			"engine",
+			"//p"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"for=\"cat_",
+			"name=\"cat_",
+			"dpt",
+			"mat_no",
+			"dept",
+			"dpt",
+			"h4",
+			"h3",
+			"creator",
+			"$all_ads_assoc",
+			"self::$",
+			"public static",
+			"$_REQUEST",
+			"",
+			"_POST",
+			"",
+			"autofocus=\"off\"",
+			"",
+			"$_REQUEST",
+			"ROOT.'",
+			"ROOT",
+			"categories",
+			"<i class=\"fa fa-map-marker location-icon\" ></i> UNIBEN",
+			"This is where the description of the product from search result will display",
+			"",
+			"This is where the description will go to",
+			"fa-map-marker",
+			"<i class=\"fa fa-map-marker-alt location-icon\" ></i> UNIBEN",
+			"clock-o",
+			"clock",
+			"13:14, 16 Nov 2017",
+			"This is the place where the ad description will go to",
+			"UNIBEN",
+			"small class=\"desc\" id=\"desc_txt\"",
+			"",
+			"&#8358 ",
+			"&#8358;",
+			"&#8358",
+			"var",
+			"col-lg-4 col-md-5 col-xs-5",
+			"col-lg-2 col-md-4 col-xs-5",
+			"username",
+			"col-lg-3 col-md-4 col-xs-6",
+			"col-lg-2 col-md-4 col-xs-4",
+			"col-lg-3 col-md-4 col-xs-4",
+			"col-lg-2 col-md-5 col-xs-6",
+			"col-lg-2 col-md-3 col-xs-5",
+			"col-lg-2 col-md-3 col-xs-4 item",
+			"col-lg-5 col-md-6 col-xs-8 item",
+			"500",
+			"cover",
+			"100% 100%",
+			"$param_voucher",
+			"Voucher",
+			"hall",
+			"$userFactory",
+			"'",
+			"engine/tesseract",
+			"p"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/majo/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								2386
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 630.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/majo/result-categories.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2016,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1087,
+								1087
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 445.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/majo/poll.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5491,
+								5491
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 22317.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/majo/vote/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 92.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/xampp/htdocs/majo/vote/assets/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21997,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4190,
+								4190
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2821.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Async/vote_ajax.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 125.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1724,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1724,
+								1724
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 397.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/xampp/htdocs/majo/test.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "Env/db.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								198,
+								198
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "majo",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 11,
+					"file": "Env/ftf.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 894,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								600,
+								600
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 189.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "Class/user_singleton.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								127
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "Controllers/index_ctrl.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 590,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								585,
+								207
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "Controllers/poll_ctrl.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								125,
+								125
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "Controllers/Vote/index_ctrl.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								6
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "Class/user_factory.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 62.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "Class/vote_factory.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3117,
+								3038
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2125.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.198528626769,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 32.8
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "/C/xampp/htdocs/new_flimbit/Engine/new_flimbit.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
