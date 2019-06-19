@@ -10,7 +10,7 @@ class SMS
 	function __construct()
 	{
 		self::$DB = new DB();
-		self::$SMS_API = new EBulkSMS("novacomng@gmail.com","6b6a0b4f1b516f45a9feb65a91068954401165ab");
+		self::$SMS_API = new EBulkSMS($email,$apikey);
 	}
 
 
